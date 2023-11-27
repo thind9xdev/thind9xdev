@@ -4,7 +4,7 @@
 <a href="https://github.com/thind9xdev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thind9xdev&layout=compact&theme=react&hide_border=true" />
 </a></p>
 <h1 align="center">Hi there 👋, I'm Thi Nguyen<img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/228BE6/ok--v1.png" alt="Verified"/></h1>
-<h3 align="center">A normal developer</h3>
+<h3 align="center">A Full Stack Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thind9xdev&label=Profile%20views&color=0e75b6&style=flat" alt="thind9xdev" /> </p>
 
