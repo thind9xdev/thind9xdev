@@ -10,7 +10,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thind9xdev&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues" alt="thind9xdev" /></a> </p>
 
-- 🔭 I’m currently working on **Tencent Holdings Limited**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
